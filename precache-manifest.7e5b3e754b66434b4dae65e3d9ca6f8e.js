@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f0e4d2fe633802471d0a98acc56a9cc",
+    "revision": "d78e3fe44475e0df152a1b562d061dc8",
     "url": "/afrima_temps/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afrima_temps/static/css/2.15d8162b.chunk.css"
   },
   {
-    "revision": "12a176ce6bc4105ff93a",
-    "url": "/afrima_temps/static/css/main.7aed2a7f.chunk.css"
+    "revision": "f751b997320d1270c85a",
+    "url": "/afrima_temps/static/css/main.6de03813.chunk.css"
   },
   {
     "revision": "69fa39096c4113aadd92",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afrima_temps/static/js/3.d8ac33f5.chunk.js"
   },
   {
-    "revision": "12a176ce6bc4105ff93a",
+    "revision": "f751b997320d1270c85a",
     "url": "/afrima_temps/static/js/main.bb4430b4.chunk.js"
   },
   {
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/afrima_temps/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "ed9e140a855f93accaa80e0717ba5f7f",
+    "url": "/afrima_temps/static/media/texture.ed9e140a.jpg"
   }
 ]);

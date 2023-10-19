@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/afrima_temps/precache-manifest.96006346b21f2ae564c3f5abaa517bb0.js"
+  "/afrima_temps/precache-manifest.7e5b3e754b66434b4dae65e3d9ca6f8e.js"
 );
 
 self.addEventListener('message', (event) => {

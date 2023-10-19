@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/afrima_temps/static/css/main.7aed2a7f.chunk.css",
+    "main.css": "/afrima_temps/static/css/main.6de03813.chunk.css",
     "main.js": "/afrima_temps/static/js/main.bb4430b4.chunk.js",
     "main.js.map": "/afrima_temps/static/js/main.bb4430b4.chunk.js.map",
     "runtime~main.js": "/afrima_temps/static/js/runtime~main.7e5df1d2.js",
@@ -11,10 +11,11 @@
     "static/js/3.d8ac33f5.chunk.js": "/afrima_temps/static/js/3.d8ac33f5.chunk.js",
     "static/js/3.d8ac33f5.chunk.js.map": "/afrima_temps/static/js/3.d8ac33f5.chunk.js.map",
     "index.html": "/afrima_temps/index.html",
-    "precache-manifest.96006346b21f2ae564c3f5abaa517bb0.js": "/afrima_temps/precache-manifest.96006346b21f2ae564c3f5abaa517bb0.js",
+    "precache-manifest.7e5b3e754b66434b4dae65e3d9ca6f8e.js": "/afrima_temps/precache-manifest.7e5b3e754b66434b4dae65e3d9ca6f8e.js",
     "service-worker.js": "/afrima_temps/service-worker.js",
     "static/css/2.15d8162b.chunk.css.map": "/afrima_temps/static/css/2.15d8162b.chunk.css.map",
-    "static/css/main.7aed2a7f.chunk.css.map": "/afrima_temps/static/css/main.7aed2a7f.chunk.css.map",
-    "static/media/slick-theme.css": "/afrima_temps/static/media/slick.f97e3bbf.svg"
+    "static/css/main.6de03813.chunk.css.map": "/afrima_temps/static/css/main.6de03813.chunk.css.map",
+    "static/media/slick-theme.css": "/afrima_temps/static/media/slick.f97e3bbf.svg",
+    "static/media/home.css": "/afrima_temps/static/media/texture.ed9e140a.jpg"
   }
 }
