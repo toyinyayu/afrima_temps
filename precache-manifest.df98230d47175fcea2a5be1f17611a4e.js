@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d78e3fe44475e0df152a1b562d061dc8",
+    "revision": "9437bb82a508fb49b753e499deb113a7",
     "url": "/afrima_temps/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afrima_temps/static/css/2.15d8162b.chunk.css"
   },
   {
-    "revision": "f751b997320d1270c85a",
-    "url": "/afrima_temps/static/css/main.6de03813.chunk.css"
+    "revision": "0db7d08fcd46a834f148",
+    "url": "/afrima_temps/static/css/main.05a04c1e.chunk.css"
   },
   {
     "revision": "69fa39096c4113aadd92",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afrima_temps/static/js/3.d8ac33f5.chunk.js"
   },
   {
-    "revision": "f751b997320d1270c85a",
+    "revision": "0db7d08fcd46a834f148",
     "url": "/afrima_temps/static/js/main.bb4430b4.chunk.js"
   },
   {
